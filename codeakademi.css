@@ -1,0 +1,79 @@
+.logo{
+    width: 8rem;
+    height: 4rem;
+}
+body{
+    background-color:#fee5d3 !important;
+}
+.menu{
+    background-color:#fee5d3;
+}
+.bosluk{
+    margin:0;
+    padding:0;
+}
+.kutu{
+    width: 5rem;
+    height: 3rem;
+    background-color: white;
+    border:1px solid black;
+}
+#mavi{
+    background: rgb(16,22,47);
+    background: linear-gradient(180deg, rgba(16,22,47,1) 0%, rgba(39,19,147,1) 100%);
+    color:white;
+}
+.incefont{
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'PT Sans', sans-serif;
+    font-size:1.2rem;
+}
+.navigasyon{
+    border-bottom:1px solid white;
+    
+}
+.navigasyon .bolum{
+    width: 8rem;
+    height: 3rem;
+    
+}
+.navigasyon .bolum a{
+    color:white;
+    text-decoration: none;
+    width: 8rem;
+    height: 3rem;
+    display:block;
+    text-align: center;
+}
+.navigasyon .bolum a:hover{
+ background-color: rgb(33, 36, 51);
+
+}
+.sarialan_baslik{
+    background-color: rgb(234,253,198);
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'PT Sans', sans-serif;
+    margin-top:0;
+}
+#mavi .card{
+    padding:0 !important;
+    margin-right:2rem;
+    
+}
+#mavi .card-body{
+    height:20rem;
+    padding:0;
+}
+#mavi .card-text{
+    padding-left:1rem;
+    padding-right:1rem;
+}
+#mavi .card-body h5{
+    padding:0.5rem;
+}
+#mavi .card-footer {
+    border-top:1px dotted gray;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'PT Sans', sans-serif;
+    height:2rem;
+}

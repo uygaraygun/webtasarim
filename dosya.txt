@@ -1,0 +1,47 @@
+h1-h6 başlık tağları oluşuturuluyor
+p paragraf
+a link 
+a href= gideceği adres http://milliyet.com
+img resim sayfasına resim koymak kullanıyoruz
+ol li
+order list
+
+<ol>
+        <li>Elma</li>
+        <li>Armut</li>
+        <li>Muz</li>
+
+</ol>
+
+1.Elma
+2.Armut
+3.Kira
+unorder list
+ul li sırasız
+<ul>
+        <li>Elma</li>
+        <li>Armut</li>
+        <li>Muz</li>
+
+</ul>
+b kalın  strong kalın
+i italik em italik
+<strong>Uygar </strong>
+<i>yatay yazi </i>
+img 
+hr cizgi <hr/>
+<br/> bir alt satıra geç
+table  tr  table row    table column
+table tr td
+<table>
+    <tr>
+          <td></td>
+    </tr>
+
+</table>
+
+
+.Elma
+.kiraz
+.Armut
+

@@ -1,0 +1,25 @@
+h1 {
+    color: brown;
+    background-color: cadetblue;
+    font-size: 1.6rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+/* class id class özellik ve sınıf id sıralama numara bu sayfa içerisinde 
+id bir defa kulllanılır class ise birden fazla kullanıbiliyorsunuz
+class oluşturulurken nokta işareti ile başlar id ise # dizeys ile başlar
+html yazarken class  ve id 
+
+
+*/
+.isim{
+    color:black;
+    background-color: darksalmon;
+    font-size:2rem;
+}
+.yazi{
+    font-size:4rem;
+    color:yellow;
+}

@@ -1,0 +1,7 @@
+width: genişlik
+height: yükseklik
+color:yazı rengi
+background-color: arka plan rengi
+background-image:arka plana resim ekle
+background-repeat:no-repeat resim 
+
